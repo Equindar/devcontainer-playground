@@ -1,6 +1,6 @@
 # Personal Repo: "devcontainer-playground"
 
-![Discord][(https://img.shields.io/discord/509301003376525314?logo=discord&logoColor=white&label=Discord&color=blue)]
+![Discord](https://img.shields.io/discord/509301003376525314?logo=discord&logoColor=white&label=Discord&color=blue)
 
 ## Just me, playing around devcontainers
 ... and exploring codespaces in general.
